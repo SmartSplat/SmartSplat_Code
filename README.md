@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="">
-    <video src="assets/teaser.mp4" autoplay loop muted playsinline style="width:100%; border-radius: 8px;"></video>
+    <img src="./assets/teaser.gif" alt="SmartSplat teaser" style="max-width: 100%; height: auto;">
   </a>
   <p style="margin-top: 8px; font-size: 14px; color: #555;">
    Raw Image info: 16320×10848, 189 MB
